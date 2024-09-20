@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
-        int antall = 3;
+        int antall = 9;
 
         flyttMange(antall, 'A', 'B', 'C');
         System.out.println(Math.round(Math.pow(2, antall)-1) + " forflytninger");
